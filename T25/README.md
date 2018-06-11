@@ -1,4 +1,6 @@
-# Utilizar arquivos como parâmetro para contar quantos caracteres, linhas e palavras tem o arquivo.
+# Utilizar arquivos como parâmetro.
+
+# O programa serve para contar quantos caracteres, linhas e palavras tem o arquivo.
 
 # Se for passado mais de um arquivo válido será apresentado, além da quantidade individual, a quantidade total de linhas, palavras e caracteres.
 
